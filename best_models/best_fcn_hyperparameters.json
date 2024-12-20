@@ -1,0 +1,27 @@
+{
+    "input_layer": {
+        "input_shape": 1568
+    },
+    "hidden_layers": [
+        {
+            "layer": 1,
+            "units": 128,
+            "activation": "sigmoid",
+            "dropout_rate": 0.2
+        },
+        {
+            "layer": 2,
+            "units": 64,
+            "activation": "relu",
+            "dropout_rate": 0.1
+        }
+    ],
+    "output_layer": {
+        "units": 19,
+        "activation": "softmax"
+    },
+    "batch_size": 32,
+    "optimizer": "Adam",
+    "loss": "Categorical crossentropy",
+    "learning_rate": 0.001
+}

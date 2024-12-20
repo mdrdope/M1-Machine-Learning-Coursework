@@ -1,0 +1,9 @@
+要写上最好的preplexity是什么，preplexity的意义是什么
+tsne的代码实现
+% The heavy-tailed t-distribution alleviates the "crowding problem" by allowing distant points to influence the layout.
+poor models
+
+数值成果
+
+
+可以考虑在s1报告中加入iminuit的error是怎么算的

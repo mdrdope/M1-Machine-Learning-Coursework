@@ -1,0 +1,18 @@
+[
+    {
+        "kernel": "linear",
+        "validation_accuracy": 0.31194736842105264
+    },
+    {
+        "kernel": "poly",
+        "validation_accuracy": 0.3755263157894737
+    },
+    {
+        "kernel": "rbf",
+        "validation_accuracy": 0.5300526315789473
+    },
+    {
+        "kernel": "sigmoid",
+        "validation_accuracy": 0.3412631578947368
+    }
+]
